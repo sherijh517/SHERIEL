@@ -1,0 +1,88 @@
+<html>
+
+
+<head>
+
+<title>hello,world</title>
+
+<style>#pic{padding-left:100px;}
+.subhead{font-family: sans-serif}
+p {font-family: monospace}
+#top{border-bottom-style: solid;
+border-bottom-color:rgb(192,192,192);</style>
+</head>
+<body>
+
+
+<p id="top"> <strong>Jane Smith</strong><img id="pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgr72GMbzexLVGIWUbd8K0dvhpoz84XraAoXqVkjIDNhFy2rKZIQ" alt="pic"width="170" height="100" valign="right"/></p>
+
+<p>Sometown, MA 02108 l (123) 456-7890 | <a href="ma@somedomain.com">ma@somedomain.com</a> | <a href="https://www.linkedin.com/">LinkedIn</a></p>
+
+
+
+
+<h3><strong>Entry-Level Help-Desk Technician</strong></h3>
+<h2>
+Education
+</h2>
+<p class="subhead">XYZ UNIVERSITY, Sometown, MA | 108/120 Credits Earned</p>
+
+<p>
+Pursuing a B.S. in Computer Information Systems l GPA: 3.7/4.0
+</p>
+
+<h2>Experience</h2>
+
+<p>
+Help Desk Analyst (2016 to Present) | ABC Company, Sometown, MA</p>
+
+<text>Handle technical troubleshooting within an enterprise environment, including system crashes, slow-downs and data recoveries. Engage and track Priority 1 issues, with responsibility for the timely documentation, resolution and closure of trouble tickets. Selected Contributions:</text>
+
+
+<ul>  <li>Researched and developed knowledgebase articles for Windows 10 issues, resulting in a 35% increase in first-call resolutions and $5K in annual savings.</li><li>Exceeded issue-resolution targets and achieved exemplary customer satisfaction scores, consistently scoring between 95% and 100% on all calls (outperforming average of 90%).</li><li>Handled 30+ technical/mission-critical calls daily and consistently met high service standards.</ul>
+
+<p> Student Help Desk Technician (2015 to 2016) | XYZ UNIVERSITY, Sometown, MA
+</p>
+
+<text>Provide networking/desktop support and perform mainframe and account-maintenance tasks. Earned commendations for teamwork, flexibility and work excellence in providing IT support to students and faculty.</text>
+
+<p>
+Sales Representative (2015 to 2016) | ABC Retail Company, Sometown, MA
+</p>
+
+<text>
+Leveraged strengths in persuasive communications and consultative sales to become a top sales performer for both retailers (including top 10 rankings out of a 100-member sales force).
+</text>
+
+<h2>Technology Summary</h2>
+
+<p><strong>Certifications</strong>
+</p>
+<text>CompTIA A+, HDI-Support Center Analyst (HDI-SCA)
+</text>
+<p><strong>Systems</strong>
+</p>
+<text>CICS/ISPF/Mainframe, Unix, Linux, Windows, Novell NetWare, Mac OS X, Mobile</text>
+<p><strong>Databases</strong>
+</p>
+<text>Oracle, Access, Relational Databases
+</text>
+
+<p><strong>Languages</strong>
+</p>
+<text>Visual Basic, SQL, HTML, ASP, CSS, C++, CGI, Perl, JavaScript
+</text>
+
+
+<p><strong>Software</strong>
+</p>
+<text>MS Project, MS Visio, MS Office</text>
+
+
+
+
+</body>
+
+
+
+</html>
