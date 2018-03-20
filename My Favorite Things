@@ -1,0 +1,47 @@
+<html>
+<h1>These Are My Favorite Things
+</h1>
+<h2>My Movies
+</h2>
+
+<ul>  
+<li>
+<a href=”http://www.imdb.com/videoplayer/vi1220346137”>Catch Me If You Can</a></li>
+<li>
+<a href=”http://www.imdb.com/videoplayer/vi1220346137”>Mulan</a></li>
+<li>
+<a href=”https://www.youtube.com/watch?v=eOrNdBpGMv8”>Avengers</a></li>
+</ul>
+
+<h2>My Foods
+</h2>
+<ul> 
+<li>
+<a href=”http://sakerum.com/menu/”>Sushi</a></li>
+<li><a href=”http://sakerum.com/menu/”>Pizza</a></li>
+<li><a href=”http://places.singleplatform.com/oohhs-and-aahhs-restaurant/menu?ref=google”>Shrimp and grits</a></li></ul>
+
+<h2>My Shows
+</h2>
+<ul>  
+<li>
+<a href=”https://www.youtube.com/watch?v=PhOR6DIS_Ho”>-Scandal</a></li>
+<li>
+<a href=”https://www.youtube.com/watch?v=WBb3fojgW0Q”>-Big Bang Theory</a></li>
+<li>
+<a href=”https://www.youtube.com/watch?v=sEOuJ4z5aTc”>-Brooklyn Nine-Nine</a></li>
+</ul>
+
+<h2>My Music
+</h2>
+<ul>  
+<li>
+<a href=”https://www.youtube.com/watch?v=ZI_zlkGN46Y”>Mad-Solange</a></li>
+<li>
+<a href=”https://www.youtube.com/watch?v=3-yamPXZQtU”>Run Me Dry-Bryson Tiller</a></li>
+<li>
+<a href=”https://www.youtube.com/watch?v=nS_V9iXBtxw”>Blind Man-Xavier Omar</a></li>
+</ul>
+
+
+</html>
