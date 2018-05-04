@@ -1,0 +1,42 @@
+<html>
+<head>
+        <style>
+            body { background-color: antiquewhite;}
+               </style>
+        </head>
+<body>
+<h2> Greetings! You want to hire Sheriel Henry? </h2>
+<h4> Please leave your information below, and I will contact you as soon as possible!</h4>
+
+  <fieldset>
+<legend>Contact details</legend>
+<label>Company Name:<br />
+<input type= "text" name="email"></label>
+<br/>
+<label>Position:<br />
+<input type="text" name="mobile"></label>
+    <label>Location:<br />
+<input type="text" name="tel"></label>
+<br />
+<label>Pay Rate:<br />
+<input type="number" name="rate"></label>
+   <label>Vacation Days:<br />
+<input type="number" name="days"></label>
+<input type="submit" value="Submit" />
+  </fieldset>  
+
+  <br />
+  
+  <h5> Sheriel's Login</h5>
+  <br/>
+  <label for="username">Username:</label>
+<input type="text" name="username"
+Required="required" />
+<br />
+  <label for="password">Password:</label>
+<input type="password" name="password"
+Required="required" />
+<input type="submit" value="Submit" />
+  
+</body>
+</html>
