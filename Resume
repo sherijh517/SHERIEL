@@ -1,4 +1,4 @@
-html>
+<html>
 
 <div id="margins">
 
@@ -33,6 +33,7 @@ h2{color: Black}
 </style>
 </head>
 
+<a href="#entry">Objective</a>|
 <a href="#edu">Education</a>|
 <a href="#exp">Experience</a>|
 <a href="#tech">Skills</a>
@@ -47,8 +48,13 @@ Princeton,NJ | (908)-487-0536 | <a href="mailtp:sherijh517@gmail.com">sherijh517
 </p>
 <h2 id="entry">
 </h2><p>
-
+<h2 id="entry">
+Objective:
+</h2><p>
+To Network and get a Job
 </p>
+
+
 
 <h1 id="edu">Education</h1>
 <p id="secondary">
