@@ -1,0 +1,77 @@
+<Doctype html>
+<html lang="en">
+  <head>
+  <meta charset="utf-8"> 
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ 
+ <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+ <title>Ms.Sheriel J.'s Site</title>
+  
+<style>
+         #topbar {
+    background-image: none;
+    background-color: white;
+    color: white;
+    text-emphasis-color: blueviolet;  
+}
+</style>
+    </head>
+  <body>
+     <nav class="navbar navbar-default" id="topbar">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="makesitehome.html">Ms.Sheriel J. Site</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li role="presentation" class="active"><a href="makesitehome.html">Home</a></li>
+      <li role="presentation"><a href="transcript.html">Transcript</a></li>
+      <li role="presentation"><a href="resume.html">Resume</a></li>
+      
+    </ul>
+  </div>
+ 
+</nav>
+
+
+<div class="container" >
+  <div class="jumbotron" >
+    <h1>Ms.Sheriel's Website will be the Greatest Thing you have every seen at this current time.</h1> 
+        <p>Welcome Friend!! Enjoy this site with your eyesite it is an experience of yout life.</p> 
+  </div>
+  <center><p>The most beautiful women are educated Black Women</p> 
+  <p>Please stay and make your self at home but dont get crazy,</p> </center>
+</div>
+
+
+
+
+ <div class="panel panel-default">
+ 
+  <div class="panel-footer">
+ 
+<footer class="footer">
+        <div class="container text-left">
+            <small style="color:grey" class="copyright">Copyright &copy; 2018 The Coolest Girls in the world Limited.All Rights Reserved. <a href="makesitehome.html">Home</a></small>
+            <a href="#"><small style="color:grey" class="fa fa-lg fa-skype pull-right">  </small></a>
+            <a href="#"><small style="color:grey" class="fa fa-lg fa-google-plus pull-right">  </small></a>
+            <a href="#"><small style="color:grey" class="fa fa-lg fa-linkedin pull-right">  </small></a>
+            <a href="#"><small style="color:grey" class="fa fa-lg fa-twitter pull-right">  </small></a>
+            <a href="#"><small style="color:grey" class="fa fa-lg fa-facebook pull-right">  </small></a>
+        </div>  <!--End container-->
+    </footer>
+    </div> </div>
+
+    <!--necessary scripts and plugins-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <script src="js/jquery.nicescroll.min.js"></script>
+    <script src="js/evenfly.js"></script>
+  </body>
+</html>
