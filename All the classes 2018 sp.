@@ -1,0 +1,46 @@
+<html>
+<body>
+
+<table width="600"
+cellpadding="10"
+cellspacing="10">
+<tr>
+<th></th>
+<th scope="col">Monday</th>
+<th scope="col">Tuesday</th>
+<th scope="col">Wednesday</th>
+<th scope="col">Thursday</th>
+<th scope="col">Friday</th> 
+</tr>
+<tr>
+  <th scope="row">11am</th>
+  <td rowspan="2">2233 Finance Principles Etta </td>
+ <td></td>
+ <td rowspan="2">2233 Finance Principles Etta</td>
+ </tr> 
+ <tr>
+ <th scope="row">12am</th></tr>
+ 
+ <tr><th scope="row">1pm</th>
+ 
+<td rowspan="2">3399 <br/> Intro to Infromation Security <br/> Goel </td>
+ 
+ <td>22334 <br/> Database Management<br/>Owunwanne </td>
+ <td rowspan="2">3399 <br/> Intro to Infromation Security<br/> Goel</td>
+ <td>22334 <br/> Database Management <br/>Owunwanne  </td>
+ </tr>
+ 
+ <tr><th scope="row">2pm</th></tr>
+ 
+ <tr><th scope="row">3pm</th></tr>
+ 
+ <tr><th scope="row">4pm</th>
+  <td rowspan="2">556677<br/> Web Authoring <br/>  Henley</td>
+  <td></td>
+   <td rowspan="2">556677<br/> Web Authoring <br/>  Henley</td>
+  </tr>
+ 
+  <tr><th scope="row">5pm</th></tr>
+  <table/>
+  <html/>
+<body/>
