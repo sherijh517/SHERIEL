@@ -1,16 +1,19 @@
 <html>
-<h1>These Are My Favorite Things
-</h1>
-<h2>My Movies
-</h2>
-
+<body>
+<h1>These Are My Favorite Things</h1>
+<a href="#my-movies">My Movies</a><br/>
+<a href="#my-foods">My Foods</a><br/>
+<a href="#my-shows">My Shows</a><br/>
+<a href="#my-music">My Music</a><br/>
+<h2 id="my-movies">My Movies</h2>
+<h2>My Movies</h2>
 <ul>  
 <li>
 <a href=”http://www.imdb.com/videoplayer/vi1220346137”>Catch Me If You Can</a></li>
 <li>
 <a href=”http://www.imdb.com/videoplayer/vi1220346137”>Mulan</a></li>
 <li>
-<a href=”https://www.youtube.com/watch?v=eOrNdBpGMv8”>Avengers</a></li>
+<a href=”https://www.youtube.com/watch?veOrNdBpGMv8”>Avengers</a></li>
 </ul>
 
 <h2>My Foods
@@ -19,17 +22,17 @@
 <li>
 <a href=”http://sakerum.com/menu/”>Sushi</a></li>
 <li><a href=”http://sakerum.com/menu/”>Pizza</a></li>
-<li><a href=”http://places.singleplatform.com/oohhs-and-aahhs-restaurant/menu?ref=google”>Shrimp and grits</a></li></ul>
+<li><a href=”http://places.singleplatform.com/oohhs-and-aahhs-restaurant/menu?refgoogle”>Shrimp and grits</a></li></ul>
 
 <h2>My Shows
 </h2>
 <ul>  
 <li>
-<a href=”https://www.youtube.com/watch?v=PhOR6DIS_Ho”>-Scandal</a></li>
+<a href=”https://www.youtube.com/watch?vPhOR6DIS_Ho”>-Scandal</a></li>
 <li>
-<a href=”https://www.youtube.com/watch?v=WBb3fojgW0Q”>-Big Bang Theory</a></li>
+<a href=”https://www.youtube.com/watch?vWBb3fojgW0Q”>-Big Bang Theory</a></li>
 <li>
-<a href=”https://www.youtube.com/watch?v=sEOuJ4z5aTc”>-Brooklyn Nine-Nine</a></li>
+<a href=”https://www.youtube.com/watch?vsEOuJ4z5aTc”>-Brooklyn Nine-Nine</a></li>
 </ul>
 
 <h2>My Music
@@ -42,6 +45,5 @@
 <li>
 <a href=”https://www.youtube.com/watch?v=nS_V9iXBtxw”>Blind Man-Xavier Omar</a></li>
 </ul>
-
-
+</body>
 </html>
