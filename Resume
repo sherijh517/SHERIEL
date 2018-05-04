@@ -1,0 +1,95 @@
+html>
+
+<div id="margins">
+
+<head>
+<title> Hello world</title>
+<style>
+#pic {padding-bottom: 30px;
+  padding-left: 100px;}
+
+#part1 {
+  text-align: center;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(192,192,192);
+    padding-top: 30 px;
+   
+}
+#resume{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+h1{
+  font-family:"sans-serif",sans-serif;
+color:blue}
+
+#secondary{
+  font-family:sans-serif;
+  font-size: 20px ;
+}
+#entry{font-family:"Arial",sans-serif;}
+
+h2{color: Black}
+</style>
+</head>
+
+<a href="#edu">Education</a>|
+<a href="#exp">Experience</a>|
+<a href="#tech">Skills</a>
+<div id="resume"/>
+<body>
+<h1 id="part1">
+
+<strong>Sheriel Henry</strong> <img id="pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaLYeeM6jxaadXS9djGhgFiQhCiavQQZRtixlRfcJS3X4RxXmk" alt="Sheriel" valign="middle"/></h1>
+
+<p>
+Princeton,NJ | (908)-487-0536 | <a href="mailtp:sherijh517@gmail.com">sherijh517@gmail.com</a> 
+</p>
+<h2 id="entry">
+</h2><p>
+
+</p>
+
+<h1 id="edu">Education</h1>
+<p id="secondary">
+Howward University, Washington DC, |Expected Graduation: May 2019
+</p>
+<p>
+Pursuing a B.B.A in Computer Information Systems 
+</p>
+<h1 id="exp">Experience</h1>
+
+<p id="secondary">
+Howard University Department of Residence Life – Resident Assistant
+July 2017 to Present
+ | Washington, DC </p>
+<p>
+RA for 41 freshmen – serving as a peer and resource counselor and managing dorm programs.   Many of the dorm programs foster academic and social growth.
+:</p>
+<ul>
+<p id="secondary">
+Princeton University Department of Geosciences - Lab Assistant 
+2015 to 2018
+
+ | Washington, DC </p>
+<li>Testing and analyzing the otoliths – ear stones from fish under the direction of PhD Students and faculty.
+</li>
+<li>Kept records of fish tissue samples - organized and logged them in an excel database
+Used a masspec  and worked with image J to take pictures of the samples and catalog them for use various studies and paper.
+
+</li>
+</ul>
+
+<h1 id="tech">Skills</h1>
+
+<p><strong>Software</strong><p>
+<ul>
+<li>MS Project</li>
+<li> Apple iMovie</li>
+<li>MS Office</li>
+</ul>
+
+
+</body></div>
+</html>
+
